@@ -65,6 +65,3 @@ Ezzel a feladattal egy szótár alkalmazás működését szimulálhatod.
 Hozz létre egy adatbázist, amelyben egyetlen tábla lesz: ez a szótárban található szavak magyar és angol megfelelőjét tartalmazza. 
 A szótár működése nagyon egyszerű: kell két metódus, `getEnglishWord(String hungarianWord)` és `getHungarianWord(String englishWord)` .
 Az egyik egy magyar szót vár és annak angol megfelelőjét adja vissza, a másik egy angol szót vár és annak a magyar megfelelőjét adja vissza.
-
-(A teszteléshez szükséges SQL utasítások a resources/db/migration/V1__dictionary.sql fájlban találhatóak.)
-   
